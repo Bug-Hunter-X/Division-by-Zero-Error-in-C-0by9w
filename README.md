@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C programming: division by zero. The `bug.c` file contains the erroneous code, while `bugSolution.c` provides a corrected version with error handling.  The issue is explained in detail below.  The solution involves checking for division by zero before performing the operation.
